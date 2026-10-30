@@ -1,0 +1,101 @@
+[
+  {
+    "id": "post-01",
+    "title": "Wear your everyday",
+    "kind": "post",
+    "format": "Feed 4:5",
+    "file": "creatives/post-01.svg",
+    "caption": "Everyday is a style. Meet KOVA, a fictional label built around simple fits and three easy colours. Explore the first-drop preview.",
+    "cta": "Explore the first-drop preview"
+  },
+  {
+    "id": "post-02",
+    "title": "A quieter starting point",
+    "kind": "post",
+    "format": "Feed 4:5",
+    "file": "creatives/post-02.svg",
+    "caption": "A neutral tee can be a useful starting point. Try yours with denim, relaxed trousers or an open shirt. Save this outfit idea.",
+    "cta": "Explore the first-drop preview"
+  },
+  {
+    "id": "post-03",
+    "title": "Three colours, your call",
+    "kind": "post",
+    "format": "Feed 4:5",
+    "file": "creatives/post-03.svg",
+    "caption": "A quiet palette, a few familiar combinations. Start with the shade you would actually reach for. Which one is yours?",
+    "cta": "Explore the first-drop preview"
+  },
+  {
+    "id": "carousel-01",
+    "title": "Start with fit.",
+    "kind": "carousel",
+    "format": "Carousel 4:5",
+    "file": "creatives/carousel-01.svg",
+    "caption": "Two different moods, one everyday wardrobe. Swipe through the proposed Everyday and Oversized fits, then check the fit article. Save the guide.",
+    "cta": "1/5 \u00b7 Save the fit guide"
+  },
+  {
+    "id": "carousel-02",
+    "title": "The Everyday idea",
+    "kind": "carousel",
+    "format": "Carousel 4:5",
+    "file": "creatives/carousel-02.svg",
+    "caption": "Two different moods, one everyday wardrobe. Swipe through the proposed Everyday and Oversized fits, then check the fit article. Save the guide.",
+    "cta": "2/5 \u00b7 Save the fit guide"
+  },
+  {
+    "id": "carousel-03",
+    "title": "A little more room",
+    "kind": "carousel",
+    "format": "Carousel 4:5",
+    "file": "creatives/carousel-03.svg",
+    "caption": "Two different moods, one everyday wardrobe. Swipe through the proposed Everyday and Oversized fits, then check the fit article. Save the guide.",
+    "cta": "3/5 \u00b7 Save the fit guide"
+  },
+  {
+    "id": "carousel-04",
+    "title": "Compare, don\u2019t guess",
+    "kind": "carousel",
+    "format": "Carousel 4:5",
+    "file": "creatives/carousel-04.svg",
+    "caption": "Two different moods, one everyday wardrobe. Swipe through the proposed Everyday and Oversized fits, then check the fit article. Save the guide.",
+    "cta": "4/5 \u00b7 Save the fit guide"
+  },
+  {
+    "id": "carousel-05",
+    "title": "Find your starting point",
+    "kind": "carousel",
+    "format": "Carousel 4:5",
+    "file": "creatives/carousel-05.svg",
+    "caption": "Two different moods, one everyday wardrobe. Swipe through the proposed Everyday and Oversized fits, then check the fit article. Save the guide.",
+    "cta": "5/5 \u00b7 Save the fit guide"
+  },
+  {
+    "id": "story-01",
+    "title": "Which shade feels like you?",
+    "kind": "story",
+    "format": "Story 9:16",
+    "file": "creatives/story-01.svg",
+    "caption": "Two fits. Three colours. Find your everyday starting point with KOVA. Explore the fictional collection preview.",
+    "cta": "Proposed poll: choose your shade"
+  },
+  {
+    "id": "story-02",
+    "title": "Your fit, your everyday",
+    "kind": "story",
+    "format": "Story 9:16",
+    "file": "creatives/story-02.svg",
+    "caption": "Two fits. Three colours. Find your everyday starting point with KOVA. Explore the fictional collection preview.",
+    "cta": "Explore the fictional preview"
+  },
+  {
+    "id": "story-03",
+    "title": "What helps you choose?",
+    "kind": "story",
+    "format": "Story 9:16",
+    "file": "creatives/story-03.svg",
+    "caption": "What stops you buying a tee online? Proposed question sticker: fit, fabric details, delivery cost or return terms. No responses have been collected.",
+    "cta": "Question idea: fit, fabric or delivery?"
+  }
+]

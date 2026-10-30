@@ -1,0 +1,1235 @@
+{
+  "headlines": [
+    "KOVA Lifestyle",
+    "Wear Your Everyday",
+    "Meet Your Everyday Tee",
+    "Find Your Everyday Fit",
+    "Ink, Chalk Or Sage",
+    "Your Next Everyday Tee",
+    "Explore The First Drop",
+    "Simple Tees. Your Style.",
+    "A Little More Room",
+    "Everyday Fits, Less Fuss",
+    "Make Room For KOVA",
+    "Preview The Collection",
+    "Men And Women, Same Mood",
+    "See The Fit Before Launch",
+    "Join The Demo Drop List"
+  ],
+  "descriptions": [
+    "Discover Everyday and Oversized tees in Ink, Chalk and Sage. Preview the first drop.",
+    "Two fits. Three colours. Find a starting point for your everyday wardrobe with KOVA.",
+    "Explore the fictional KOVA collection and try the demo launch signup. No orders are taken.",
+    "See proposed prices and fit ideas before launch. This is a fictional portfolio campaign."
+  ],
+  "keywords": [
+    {
+      "keyword": "everyday t shirts for men",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "plain t shirts men",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "cotton t shirts men",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "mens casual t shirts",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "mens crew neck t shirts",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "basic t shirts men",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "neutral t shirts men",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "black everyday t shirt",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "mens relaxed t shirts",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "minimal t shirts men",
+      "group": "Everyday men",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "everyday t shirts women",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "plain t shirts women",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "cotton t shirts women",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "womens casual t shirts",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "womens crew neck tee",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "basic tees women",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "neutral t shirts women",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "sage green t shirt women",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "womens relaxed t shirts",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "minimal tees women",
+      "group": "Everyday women",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "oversized t shirts men",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "oversized t shirts women",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "plain oversized t shirt",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Test first"
+    },
+    {
+      "keyword": "oversized cotton tee",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "black oversized t shirt",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "sage oversized t shirt",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "oversized crew neck tee",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "oversized tshirt India",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Phrase",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "relaxed streetwear tee",
+      "group": "Oversized",
+      "intent": "Commercial",
+      "use": "SEO + proposed search ad",
+      "match": "Exact",
+      "page": "/drop.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    },
+    {
+      "keyword": "how to style oversized tees",
+      "group": "Oversized",
+      "intent": "Informational",
+      "use": "SEO article",
+      "match": "Not an ad keyword",
+      "page": "/journal.html",
+      "volume": "Not measured",
+      "priority": "Explore later"
+    }
+  ],
+  "rsas": [
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 1,
+      "text": "KOVA Lifestyle",
+      "characters": 14,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 2,
+      "text": "Wear Your Everyday",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 3,
+      "text": "Everyday T-Shirts For Men",
+      "characters": 25,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 4,
+      "text": "Explore Men’s Everyday Fits",
+      "characters": 27,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 5,
+      "text": "Ink, Chalk Or Sage",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 6,
+      "text": "Your Next Everyday Tee",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 7,
+      "text": "Explore The First Drop",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 8,
+      "text": "Simple Tees. Your Style.",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 9,
+      "text": "A Little More Room",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 10,
+      "text": "Everyday Fits, Less Fuss",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 11,
+      "text": "Make Room For KOVA",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 12,
+      "text": "Preview The Collection",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 13,
+      "text": "Men And Women, Same Mood",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 14,
+      "text": "See The Fit Before Launch",
+      "characters": 25,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Headline",
+      "position": 15,
+      "text": "Join The Demo Drop List",
+      "characters": 23,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Description",
+      "position": 1,
+      "text": "Discover Everyday and Oversized tees in Ink, Chalk and Sage. Preview the first drop.",
+      "characters": 84,
+      "limit": 90
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Description",
+      "position": 2,
+      "text": "Two fits. Three colours. Find a starting point for your everyday wardrobe with KOVA.",
+      "characters": 84,
+      "limit": 90
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Description",
+      "position": 3,
+      "text": "Explore the fictional KOVA collection and try the demo launch signup. No orders are taken.",
+      "characters": 90,
+      "limit": 90
+    },
+    {
+      "ad_group": "Everyday men",
+      "asset_type": "Description",
+      "position": 4,
+      "text": "See proposed prices and fit ideas before launch. This is a fictional portfolio campaign.",
+      "characters": 88,
+      "limit": 90
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 1,
+      "text": "KOVA Lifestyle",
+      "characters": 14,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 2,
+      "text": "Wear Your Everyday",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 3,
+      "text": "Everyday T-Shirts For Women",
+      "characters": 27,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 4,
+      "text": "Explore Women’s Everyday Fits",
+      "characters": 29,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 5,
+      "text": "Ink, Chalk Or Sage",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 6,
+      "text": "Your Next Everyday Tee",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 7,
+      "text": "Explore The First Drop",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 8,
+      "text": "Simple Tees. Your Style.",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 9,
+      "text": "A Little More Room",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 10,
+      "text": "Everyday Fits, Less Fuss",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 11,
+      "text": "Make Room For KOVA",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 12,
+      "text": "Preview The Collection",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 13,
+      "text": "Men And Women, Same Mood",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 14,
+      "text": "See The Fit Before Launch",
+      "characters": 25,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Headline",
+      "position": 15,
+      "text": "Join The Demo Drop List",
+      "characters": 23,
+      "limit": 30
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Description",
+      "position": 1,
+      "text": "Discover Everyday and Oversized tees in Ink, Chalk and Sage. Preview the first drop.",
+      "characters": 84,
+      "limit": 90
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Description",
+      "position": 2,
+      "text": "Two fits. Three colours. Find a starting point for your everyday wardrobe with KOVA.",
+      "characters": 84,
+      "limit": 90
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Description",
+      "position": 3,
+      "text": "Explore the fictional KOVA collection and try the demo launch signup. No orders are taken.",
+      "characters": 90,
+      "limit": 90
+    },
+    {
+      "ad_group": "Everyday women",
+      "asset_type": "Description",
+      "position": 4,
+      "text": "See proposed prices and fit ideas before launch. This is a fictional portfolio campaign.",
+      "characters": 88,
+      "limit": 90
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 1,
+      "text": "KOVA Lifestyle",
+      "characters": 14,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 2,
+      "text": "Wear Your Everyday",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 3,
+      "text": "Oversized T-Shirt Concepts",
+      "characters": 26,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 4,
+      "text": "Find Your Relaxed Silhouette",
+      "characters": 28,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 5,
+      "text": "Ink, Chalk Or Sage",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 6,
+      "text": "Your Next Everyday Tee",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 7,
+      "text": "Explore The First Drop",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 8,
+      "text": "Simple Tees. Your Style.",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 9,
+      "text": "A Little More Room",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 10,
+      "text": "Everyday Fits, Less Fuss",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 11,
+      "text": "Make Room For KOVA",
+      "characters": 18,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 12,
+      "text": "Preview The Collection",
+      "characters": 22,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 13,
+      "text": "Men And Women, Same Mood",
+      "characters": 24,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 14,
+      "text": "See The Fit Before Launch",
+      "characters": 25,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Headline",
+      "position": 15,
+      "text": "Join The Demo Drop List",
+      "characters": 23,
+      "limit": 30
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Description",
+      "position": 1,
+      "text": "Discover Everyday and Oversized tees in Ink, Chalk and Sage. Preview the first drop.",
+      "characters": 84,
+      "limit": 90
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Description",
+      "position": 2,
+      "text": "Two fits. Three colours. Find a starting point for your everyday wardrobe with KOVA.",
+      "characters": 84,
+      "limit": 90
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Description",
+      "position": 3,
+      "text": "Explore the fictional KOVA collection and try the demo launch signup. No orders are taken.",
+      "characters": 90,
+      "limit": 90
+    },
+    {
+      "ad_group": "Oversized",
+      "asset_type": "Description",
+      "position": 4,
+      "text": "See proposed prices and fit ideas before launch. This is a fictional portfolio campaign.",
+      "characters": 88,
+      "limit": 90
+    }
+  ],
+  "negatives": [
+    "free",
+    "jobs",
+    "career",
+    "wholesale",
+    "bulk printing",
+    "printing machine",
+    "custom printing service",
+    "template",
+    "mockup download",
+    "used",
+    "second hand",
+    "uniform supplier",
+    "fabric wholesale",
+    "sewing pattern",
+    "manufacturing machine"
+  ],
+  "calendar": [
+    {
+      "day": 1,
+      "channel": "Instagram",
+      "format": "Static",
+      "goal": "Awareness",
+      "headline": "Everyday is a style.",
+      "caption": "The tee you reach for again. Meet KOVA, a fictional label built around simple fits and three easy colours.",
+      "cta": "Explore the preview",
+      "asset": "POST-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 2,
+      "channel": "Instagram",
+      "format": "Story",
+      "goal": "Research",
+      "headline": "Which shade feels like you?",
+      "caption": "Ink, Chalk or Sage? Our proposed first drop starts here. Pick your shade and tell us why.",
+      "cta": "Vote in a proposed poll",
+      "asset": "STORY-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 3,
+      "channel": "Instagram",
+      "format": "Carousel",
+      "goal": "Education",
+      "headline": "Everyday or Oversized?",
+      "caption": "Two different moods, one everyday wardrobe. Swipe through our fit ideas before choosing your starting point.",
+      "cta": "Save the fit guide",
+      "asset": "CAR-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 4,
+      "channel": "Instagram",
+      "format": "Reel script",
+      "goal": "Awareness",
+      "headline": "One tee, three plans.",
+      "caption": "Coffee, class and the late-afternoon walk. Here is the same tee styled three ways.",
+      "cta": "See the lookbook",
+      "asset": "REEL-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 5,
+      "channel": "Email",
+      "format": "Welcome",
+      "goal": "Nurture",
+      "headline": "Welcome to your everyday.",
+      "caption": "Meet the first collection, explore the colours and get a feel for the two proposed fits.",
+      "cta": "Preview the drop",
+      "asset": "EMAIL-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 6,
+      "channel": "Instagram",
+      "format": "Story",
+      "goal": "Research",
+      "headline": "A closer look at Ink.",
+      "caption": "Quiet colour, plenty of outfit options. Start with Ink and build the rest around it.",
+      "cta": "View Ink",
+      "asset": "STORY-02",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 7,
+      "channel": "Instagram",
+      "format": "Static",
+      "goal": "Awareness",
+      "headline": "Less outfit overthinking.",
+      "caption": "A neutral tee can be a useful starting point. Try yours with denim, relaxed trousers or an open shirt.",
+      "cta": "Save this outfit idea",
+      "asset": "POST-02",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 8,
+      "channel": "Instagram",
+      "format": "Carousel",
+      "goal": "Education",
+      "headline": "Start with fit, then colour.",
+      "caption": "A size label is only a starting point. Compare a tee you own with a verified garment chart before buying.",
+      "cta": "Read the fit article",
+      "asset": "CAR-02",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 9,
+      "channel": "Instagram",
+      "format": "Reel script",
+      "goal": "Education",
+      "headline": "Same size, different shape.",
+      "caption": "Everyday and Oversized are different silhouettes. Show shoulder, sleeve and body width side by side.",
+      "cta": "Compare the fits",
+      "asset": "REEL-02",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 10,
+      "channel": "Instagram",
+      "format": "Story",
+      "goal": "Research",
+      "headline": "What stops you buying a tee online?",
+      "caption": "Fit, fabric details, delivery cost or return terms? A proposed question sticker to guide our product pages.",
+      "cta": "Share a question",
+      "asset": "STORY-03",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 11,
+      "channel": "Instagram",
+      "format": "Static",
+      "goal": "Consideration",
+      "headline": "The Sage state of mind.",
+      "caption": "A little colour without rebuilding your wardrobe. Pair Sage with dark denim or warm neutrals.",
+      "cta": "Explore Sage",
+      "asset": "POST-03",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 12,
+      "channel": "Blog",
+      "format": "Article",
+      "goal": "SEO",
+      "headline": "How to choose an oversized tee.",
+      "caption": "Start with shoulder placement, body width and the clothes already in your wardrobe.",
+      "cta": "Read the article",
+      "asset": "BLOG-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 13,
+      "channel": "Instagram",
+      "format": "Carousel",
+      "goal": "Education",
+      "headline": "Three colours, more combinations.",
+      "caption": "Ink with stone, Chalk with denim, Sage with charcoal. Pick the pair that feels most like you.",
+      "cta": "Save your pairing",
+      "asset": "CAR-03",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 14,
+      "channel": "Email",
+      "format": "Preview",
+      "goal": "Nurture",
+      "headline": "Your first look at KOVA.",
+      "caption": "The proposed first drop pairs Everyday and Oversized fits with Ink, Chalk and Sage.",
+      "cta": "Explore the collection",
+      "asset": "EMAIL-02",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 15,
+      "channel": "Google Ads",
+      "format": "Search plan",
+      "goal": "Acquisition",
+      "headline": "Preview your everyday tee.",
+      "caption": "A proposed search campaign grouped by fit intent. Review the ad assets and landing page together.",
+      "cta": "Try the landing page",
+      "asset": "ADS-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 16,
+      "channel": "Instagram",
+      "format": "Reel script",
+      "goal": "Consideration",
+      "headline": "Three shades, one wardrobe.",
+      "caption": "Build a simple outfit around each colour, keeping the styling honest and easy to repeat.",
+      "cta": "Choose your colour",
+      "asset": "REEL-03",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 17,
+      "channel": "Instagram",
+      "format": "Static",
+      "goal": "Consideration",
+      "headline": "Chalk, your way.",
+      "caption": "Try a light tee with dark trousers, a denim layer or a simple neutral outfit. No perfect wardrobe required.",
+      "cta": "See the colour options",
+      "asset": "POST-04",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 18,
+      "channel": "Instagram",
+      "format": "Story",
+      "goal": "Nurture",
+      "headline": "A question before the drop.",
+      "caption": "Which product detail would help you decide? Proposed answers: measurements, fabric, care or delivery.",
+      "cta": "Choose a product detail",
+      "asset": "STORY-04",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 19,
+      "channel": "Instagram",
+      "format": "Carousel",
+      "goal": "Education",
+      "headline": "The details to check before checkout.",
+      "caption": "Fit measurements, fabric information, total delivery cost and return terms belong on every product page.",
+      "cta": "Save this checklist",
+      "asset": "CAR-04",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 20,
+      "channel": "Meta Ads",
+      "format": "Creative test",
+      "goal": "Acquisition",
+      "headline": "Fit first or colour first?",
+      "caption": "Test a fit-led creative against a colour-led creative with the same audience and landing page.",
+      "cta": "Compare the two concepts",
+      "asset": "META-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 21,
+      "channel": "Email",
+      "format": "Launch",
+      "goal": "Nurture",
+      "headline": "The first drop, in preview.",
+      "caption": "Explore the fictional collection. The signup is a local demo and no products are sold.",
+      "cta": "View the preview",
+      "asset": "EMAIL-03",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 22,
+      "channel": "Instagram",
+      "format": "Static",
+      "goal": "Consideration",
+      "headline": "A little more room.",
+      "caption": "Oversized is about shape, not simply choosing a larger size. See the proposed silhouette and compare measurements.",
+      "cta": "Read the fit guide",
+      "asset": "POST-05",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 23,
+      "channel": "Instagram",
+      "format": "Story",
+      "goal": "Research",
+      "headline": "Your everyday uniform?",
+      "caption": "Jeans, cargos or relaxed trousers? Ask which outfit the audience wants to see next.",
+      "cta": "Vote on a styling idea",
+      "asset": "STORY-05",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 24,
+      "channel": "Instagram",
+      "format": "Carousel",
+      "goal": "Education",
+      "headline": "Build an outfit around one tee.",
+      "caption": "Choose one silhouette, one colour and one familiar pair of trousers. Start simple, then add a layer.",
+      "cta": "Save the styling steps",
+      "asset": "CAR-05",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 25,
+      "channel": "Email",
+      "format": "Cart draft",
+      "goal": "Nurture",
+      "headline": "Still deciding on your tee?",
+      "caption": "For a future store only: help a consented shopper check fit and total price before returning to a saved basket.",
+      "cta": "Review the draft email",
+      "asset": "EMAIL-04",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 26,
+      "channel": "Instagram",
+      "format": "Static",
+      "goal": "Education",
+      "headline": "Know the details before you buy.",
+      "caption": "A good product page should answer the questions an attractive photograph cannot. Our prototype shows where those answers belong.",
+      "cta": "Inspect the landing page",
+      "asset": "POST-06",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 27,
+      "channel": "Instagram",
+      "format": "Reel script",
+      "goal": "Awareness",
+      "headline": "A slower look at the first drop.",
+      "caption": "Reuse the colour storyboard with a new opening hook and compare the proposed click-through rate.",
+      "cta": "Preview the first drop",
+      "asset": "REEL-03",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 28,
+      "channel": "Instagram",
+      "format": "Story",
+      "goal": "Research",
+      "headline": "What would you change?",
+      "caption": "Invite feedback on the preview page. This is a research prompt, not a customer testimonial.",
+      "cta": "Review the prototype",
+      "asset": "STORY-06",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 29,
+      "channel": "Instagram",
+      "format": "Static",
+      "goal": "Nurture",
+      "headline": "Meet your everyday starting point.",
+      "caption": "Two fits and three colours. Explore the preview and try a signup without sharing or saving your email.",
+      "cta": "Try the demo signup",
+      "asset": "POST-01",
+      "status": "Draft plan, not published"
+    },
+    {
+      "day": 30,
+      "channel": "Portfolio",
+      "format": "Review",
+      "goal": "Measurement",
+      "headline": "What would we test next?",
+      "caption": "Review the simulated funnel, explain where it misses the planning goal and propose the next controlled test.",
+      "cta": "Open the measurement lab",
+      "asset": "REPORT-01",
+      "status": "Draft plan, not published"
+    }
+  ],
+  "scenario": [
+    {
+      "channel": "Google Search",
+      "spend_inr": 6000,
+      "impressions": 20000,
+      "clicks": 600,
+      "landing_sessions": 510,
+      "demo_leads": 30,
+      "data_type": "Synthetic planning example"
+    },
+    {
+      "channel": "Meta prospecting",
+      "spend_inr": 6000,
+      "impressions": 60000,
+      "clicks": 600,
+      "landing_sessions": 480,
+      "demo_leads": 24,
+      "data_type": "Synthetic planning example"
+    }
+  ],
+  "reels": [
+    {
+      "id": "REEL-01",
+      "title": "One tee, three plans",
+      "length": "15 seconds",
+      "hook": "One tee. Three plans.",
+      "shots": [
+        "0–3s: front-on tee shot with the hook overlay.",
+        "3–7s: denim and trainers, labelled coffee.",
+        "7–11s: relaxed trousers and a tote, labelled class.",
+        "11–15s: open shirt layer, labelled evening walk."
+      ],
+      "voiceover": "One starting point, a few different plans. Find your everyday with KOVA.",
+      "cta": "Explore the first-drop preview.",
+      "production": "Storyboard and script only. No filmed reel or licensed audio is included."
+    },
+    {
+      "id": "REEL-02",
+      "title": "Same size, different shape",
+      "length": "20 seconds",
+      "hook": "Oversized does not mean guessing your size.",
+      "shots": [
+        "0–4s: split-screen silhouette comparison.",
+        "4–9s: show shoulder placement with a simple guide.",
+        "9–14s: compare sleeve and body width.",
+        "14–20s: point to a verified size chart before buying."
+      ],
+      "voiceover": "Start with the fit. Compare a tee you own, then check garment measurements. A size label alone cannot tell the whole story.",
+      "cta": "Read the fit guide.",
+      "production": "Script only. Real fit claims need measured samples before filming."
+    },
+    {
+      "id": "REEL-03",
+      "title": "Three shades, one wardrobe",
+      "length": "15 seconds",
+      "hook": "Ink. Chalk. Sage. Which one are you?",
+      "shots": [
+        "0–4s: folded colour flat-lay.",
+        "4–8s: Ink paired with stone trousers.",
+        "8–11s: Chalk paired with denim.",
+        "11–15s: Sage paired with charcoal, then a colour poll."
+      ],
+      "voiceover": "A quiet palette, a few familiar combinations. Start with the shade you will actually reach for.",
+      "cta": "Choose your shade in the preview.",
+      "production": "Storyboard and script only. AI concept images are not filmed product footage."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bewakoof oversized T-shirts",
+      "url": "https://www.bewakoof.com/oversized-t-shirts",
+      "observed": "30 October 2026",
+      "observation": "The category page displayed men’s and women’s products, fit labels, ratings, sale prices and product filters.",
+      "inference": "Make fit and product choice clear, but test a calmer launch page instead of competing on catalogue size.",
+      "limit": "Page observation only. No conversion, customer or sales data was available."
+    },
+    {
+      "title": "Bonkers Corner homepage",
+      "url": "https://www.bonkerscorner.com/",
+      "observed": "30 October 2026",
+      "observation": "The homepage displayed men’s and women’s categories, oversized T-shirt links, named collections, collaborations and promotional messages.",
+      "inference": "Give KOVA one recognisable launch theme and a simple route into the first drop.",
+      "limit": "An inferred creative direction, not evidence of an unmet market need."
+    },
+    {
+      "title": "Google responsive search ads",
+      "url": "https://support.google.com/google-ads/answer/7684791?hl=en",
+      "observed": "30 October 2026",
+      "observation": "RSA assets can include up to 15 headlines and 4 descriptions, with 30 and 90 character limits.",
+      "inference": "Validate asset lengths before campaign setup.",
+      "limit": "The drafts have not been uploaded or reviewed by Google Ads."
+    },
+    {
+      "title": "GA4 recommended events",
+      "url": "https://support.google.com/analytics/answer/9267735?hl=en",
+      "observed": "30 October 2026",
+      "observation": "Google lists generate_lead for form submissions and ecommerce events including view_item.",
+      "inference": "Use named events and test triggers before connecting a real analytics property.",
+      "limit": "This prototype records events locally. It sends nothing to GA4."
+    }
+  ]
+}
