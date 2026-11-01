@@ -98,4 +98,4 @@ ChatGPT and Codex assisted with research summaries, campaign planning, copy, ori
 
 ## Portfolio scope
 
-This project demonstrates an integrated marketing plan and working prototype. It does not demonstrate paid-campaign management, delivered email automation, ranking growth, real customer acquisition or live commercial outcomes. BookNest has not been deleted or modified.
+This project demonstrates an integrated marketing plan and working prototype. It does not demonstrate paid-campaign management, delivered email automation, ranking growth, real customer acquisition or live commercial outcomes.
