@@ -6,6 +6,12 @@ A fictional Indian T-shirt launch campaign built for Mahima Mahajan’s digital 
 
 ![Campaign homepage](docs/screenshots/campaign.png)
 
+## Live website
+
+[Open the public KOVA marketing website](https://kova-marketing-launch.mahajanmahima06.chatgpt.site).
+
+A fictional campaign portfolio; no real purchases or leads are collected.
+
 ## Explore
 
 - `dist/index.html`: the marketing case study.
@@ -49,4 +55,5 @@ ChatGPT and Codex assisted with planning, writing, image concepts, creative layo
 
 [Kova Operations Studio](https://github.com/mahima68/kova-operations-studio) covers stock, orders, returns and suppliers for the same fictional brand.
 
-The hosted campaign site remains private. This repository includes the website and assets so reviewers can run them locally. Generated download ZIPs may be omitted from the GitHub copy to avoid storing duplicate archives. Run `python3 scripts/package.py` before the link checks if those ZIPs are absent.
+The hosted campaign site is public. This repository includes the website and assets so reviewers can run them locally. Generated download ZIPs may be omitted from the GitHub copy to avoid storing duplicate archives. Run `python3 scripts/package.py` before the link checks if those ZIPs are absent.
+
